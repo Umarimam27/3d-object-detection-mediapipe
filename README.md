@@ -22,3 +22,7 @@ Built with:
 - NumPy
 
 Clean, minimal UI for learning and demonstrating 3D vision.
+
+https://github.com/user-attachments/assets/71088d24-649e-4952-a3e5-b1642c6ebfd2
+
+
